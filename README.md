@@ -1,6 +1,6 @@
 # Card-Samy
 
-CardDeck : possess the cards properties 
+CardDeck : possess the cards properties (your SOs)
 
 CardSpawner : possess the cards monoBehaviour pool
 
